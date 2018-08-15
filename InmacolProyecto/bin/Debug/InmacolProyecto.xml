@@ -1,0 +1,356 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InmacolProyecto
+</name>
+</assembly>
+<members>
+<member name="T:InmacolProyecto.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:InmacolProyecto.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:InmacolProyecto.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:InmacolProyecto.My.Resources.Resources.INMACOL_3_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cargoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cliente_zonalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.colorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.detalle_nota_pedidoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.empleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.lineaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.localidadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.nota_pedidoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.productoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.provinciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_documentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_productoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.zonaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cargoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cliente_zonalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.colorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.detalle_nota_pedidoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.empleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.lineaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.localidadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.nota_pedidoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.productoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.provinciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_documentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_productoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.zonaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cargoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.cliente_zonalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.colorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.detalle_nota_pedidoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.empleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.lineaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.localidadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.nota_pedidoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.productoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.provinciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_documentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.tipo_productoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSet.zonaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.cargoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.cliente_zonalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.colorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.detalle_nota_pedidoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.empleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.lineaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.localidadTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.nota_pedidoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.productoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.provinciaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.tipo_documentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.tipo_productoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.zonaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(InmacolProyecto.INMACOLDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(InmacolProyecto.INMACOLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(InmacolProyecto.INMACOLDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.UpdateAll(InmacolProyecto.INMACOLDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:InmacolProyecto.INMACOLDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

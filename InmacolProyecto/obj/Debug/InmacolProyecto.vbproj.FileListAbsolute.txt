@@ -1,0 +1,16 @@
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.Resources.resources
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.vbproj.GenerateResource.Cache
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\bin\Debug\InmacolProyecto.exe.config
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\bin\Debug\InmacolProyecto.exe
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\bin\Debug\InmacolProyecto.pdb
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\bin\Debug\InmacolProyecto.xml
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.exe
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.xml
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.pdb
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.FRMClientesZonales.resources
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.FRMLogin.resources
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.FRMNotasPedido.resources
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.FRMProductos.resources
+C:\Users\Tronics\Source\Workspaces\INMACOL\InmacolProyecto\InmacolProyecto\obj\Debug\InmacolProyecto.MDIMain.resources
